@@ -9,4 +9,4 @@
 | git config --global user.name 'Flávio'| Nome do Usuário
 | git config --global user.email 'flaviomarques2012@gmail.com'| E-mail de Contato no Git|
 | git commit -m 'primeiro commit'| Primeiro Commit|
- git push origin
+ git push origin main
