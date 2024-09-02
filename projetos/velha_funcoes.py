@@ -27,8 +27,8 @@ def verifica_vitoria():
         tabuleiro[6] == tabuleiro[7] == tabuleiro[8]):
         return True
     elif:(tabuleiro[0] == tabuleiro[3] == tabuleiro[6] or
-          tabuleiro[1] == tabuleiro[4] == tabuleiro[7] or
-          tabuleiro[2] == tabuleiro[5] == tabuleiro[8]):
+        tabuleiro[1] == tabuleiro[4] == tabuleiro[7] or
+        tabuleiro[2] == tabuleiro[5] == tabuleiro[8]):
             return True
     elif tabuleiro[0] == tabuleiro[4] == tabuleiro[8]or
          tabuleiro[2] == tabuleiro[4] == tabuleiro[6]):
