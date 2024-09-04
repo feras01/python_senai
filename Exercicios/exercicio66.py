@@ -12,6 +12,8 @@ while operacao == 'sim':
     match opcao:
         case 1:
             nome = input('que nome deseja cadastrar: ')
+            email = input('Qual e o mail do aluno:')
+            data_nascimento = input('Informe a data de nascimento do aluno:')
             op.cadastrar_nome(nome)
         case 2:
             nome = input('que nome deseja atualizar')
