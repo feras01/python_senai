@@ -10,3 +10,13 @@
 | git config --global user.email 'flaviomarques2012@gmail.com'| E-mail de Contato no Git|
 | git commit -m 'primeiro commit'| Primeiro Commit|
  git push origin main
+
+
+
+ ### python3 -m venv venv
+ 
+ ##  pi
+
+ ### pip install
+
+ ### jupyter-notebooks.exe
